@@ -1,0 +1,62 @@
+.wrappo{
+  margin-left: 242px;
+  margin-right: 242px;
+  margin-top: 150px;
+  margin-bottom: 100px;
+  border: inset;
+  border-radius: 44px;
+  background-color: #eadfdf;
+
+}
+.container6{
+
+  padding: 66px;
+
+}
+
+.selects{
+  display: flex;
+  padding: 38px;
+
+ }
+
+ .selector{
+  /* border: solid; */
+  font-size: 24px;
+ padding: 0px 30px;
+
+
+ }
+  .lala{
+
+    padding: 20px;
+
+  }
+  input{
+    padding: 13px
+
+  }
+  .btn2{
+
+    cursor: pointer;
+    border-radius: 20px 20px;
+      color: #fff;
+      background: linear-gradient(to right, #9b0202, #db7e7e);
+      border: 0;
+      padding-left: 40px;
+      padding-right: 40px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      font-family: 'Ubuntu', sans-serif;
+      /* margin-left: 35%; */
+      font-size: 23px;
+      box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+      margin-left: 41%;
+      /* margin-bottom: 30px; */
+  }
+
+  .add{
+
+    text-transform: uppercase;
+    text-align: center;
+  }
